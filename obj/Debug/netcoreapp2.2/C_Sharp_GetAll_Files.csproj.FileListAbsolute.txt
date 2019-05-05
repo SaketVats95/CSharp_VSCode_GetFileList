@@ -1,0 +1,11 @@
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\bin\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.deps.json
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\bin\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.runtimeconfig.json
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\bin\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.runtimeconfig.dev.json
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\bin\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.dll
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\bin\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.pdb
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\obj\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.csprojAssemblyReference.cache
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\obj\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.csproj.CoreCompileInputs.cache
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\obj\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.AssemblyInfoInputs.cache
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\obj\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.AssemblyInfo.cs
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\obj\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.dll
+C:\Users\Saket\Desktop\C_Sharp_GetAll_Files\obj\Debug\netcoreapp2.2\C_Sharp_GetAll_Files.pdb
